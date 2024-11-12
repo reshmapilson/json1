@@ -1,17 +1,11 @@
-[
+{"paper":[
     {
         "Year": "2023",
-        "Qualification": " Graduate certificate in Data Analytics",
-        "Institution": "QUT"
+        "Paper": " Fuzzy Logic Ambulance dispatch",
+        
     },
     {
         "Year": "2012",
-        "Qualification": "Bachelor of Technology in Computer Science",
-        "Institution": "MG University"
-    },
-    {
-        "Year": "2015",
-        "Qualification": "ISTQB Certification",
-        "Institution": "ISTQB"
-    }
+        "Paper": "research methods for Data",
+    }}
 ]
